@@ -1,80 +1,9 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
 # **我用Cursor创建的第一个项目：家居论坛前端模板**
 
-# 我在东莞做家具，想借助现有的力量来搭建家具行业生态，下面是我的联系方式，购买咨询或者技术合作都可以跟我联系。
-![联系我](https://github.com/user-attachments/assets/76c6b916-4996-4fa4-9af9-b9f58084d9a5)
+## 我在东莞做家具，想借助现有的力量来搭建家具行业生态，下面是我的联系方式，购买咨询或者技术合作都可以跟我联系。
 
+![联系我](https://github.com/user-attachments/assets/c7435dc0-a294-4df8-9505-927d091e9b69)
 
 **项目简介**
 
@@ -157,10 +86,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ---
 
 © 2024 U0hZiY. All Rights Reserved.
+![首页](https://github.com/user-attachments/assets/14634da5-b047-4d57-b0d7-8b61834f1f07)
+![发布](https://github.com/user-attachments/assets/bef9fc93-3e5c-4553-b622-34bb10903aad)
+![登录](https://github.com/user-attachments/assets/0eb73914-c5e9-4853-9c40-fd3396b93e68)
+![文章](https://github.com/user-attachments/assets/8c867475-83a4-4f09-84b7-28b5ff0b2611)
+![分类](https://github.com/user-attachments/assets/be713c61-fe56-49f1-b167-57d0fbfe7231)
 
-![首页](https://github.com/user-attachments/assets/f6dc926e-b626-4f25-9281-40d23a8a89bb)
-![发布](https://github.com/user-attachments/assets/ab5fdb5f-79f1-48f2-8409-8a641eed1fa8)
-![登录](https://github.com/user-attachments/assets/6501ce36-5803-48b5-afb7-adbcb183fc76)
-![分类](https://github.com/user-attachments/assets/50ec9771-cb39-48eb-a7da-ad855761887b)
-![文章](https://github.com/user-attachments/assets/e5cf36f9-3ffc-409e-ba05-b973c5c83c92)
->>>>>>> acdb9640b0411406a5d28b6bc0b09396fd5b3601
+
